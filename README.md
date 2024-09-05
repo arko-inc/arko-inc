@@ -46,8 +46,8 @@ AI Integration in Web Development, E-Commerce Platforms, Space & Tech Enthusiast
 ![Profile Views](https://badges.pufler.dev/visits/arko-inc/arko-inc)
 
 ## 🤔 Fun Facts
-- I’m a space enthusiast aiming to launch rockets to Mars and the Moon.
-- I love coding and developing new technologies to support my dream of founding a space agency.
+- I’m a space enthusiast aiming to launch rockets to Mars and the Moon 🚀🚀🚀🚀.
+- I love coding and developing new technologies to support my dream of founding a space agency 🚀🚀🚀.
 
 ## 🌐 Connect with Me
 
