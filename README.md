@@ -1,6 +1,7 @@
-![Arko GIF](https://svgshare.com/i/1A4v.svg)
 
-_Building the Future, One Line of Code at a Time_ 💻🌌
+<a href='https://svgshare.com/s/1A4v'>
+  <img src='https://svgshare.com/i/1A4v.svg' title='' />
+</a>
 
 ## About Me
 Welcome to **Arko-Inc**, where the fusion of futuristic design and cutting-edge web development takes place! I'm **Arko**, a passionate web developer crafting innovative digital experiences with a vision for the future.
@@ -37,7 +38,39 @@ My mission is to code the web of tomorrow—creating responsive, dynamic, and us
 **Special Interests:**  
 AI Integration in Web Development, E-Commerce Platforms, Space & Tech Enthusiast
 
-## **Contact**
+## **GitHub Stats**
+![Arko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arko-inc&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+## **Most Used Languages**
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arko-inc&layout=compact&theme=dark&hide_title=true)
+## **Profile Visits**
+![Profile Views](https://badges.pufler.dev/visits/arko-inc/arko-inc)
+
+## 🤔 Fun Facts
+- I’m a space enthusiast aiming to launch rockets to Mars and the Moon.
+- I love coding and developing new technologies to support my dream of founding a space agency.
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://x.com/arko_inc">
+    <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.threads.net/@arko_harsh">
+    <img src="https://img.shields.io/badge/-Threads-%231DA1F2?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="https://www.instagram.com/arko_harsh/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100076826942709">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.tiktok.com/@arko.loveyou">
+    <img src="https://img.shields.io/badge/-TikTok-%233C1A60?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
+
+
 Let's build the future together!
 
 "Coding is the architecture of the future."
+
