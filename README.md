@@ -1,3 +1,4 @@
+
 <a href='https://svgshare.com/s/1A4v'>
   <img src='https://svgshare.com/i/1A4v.svg' title='' />
 </a>
@@ -17,9 +18,8 @@ My mission is to code the web of tomorrow—creating responsive, dynamic, and us
 
 **Frameworks & Libraries:**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![UIkit](https://img.shields.io/badge/-UIkit-2396F3?style=flat&logo=uikit&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -39,13 +39,14 @@ My mission is to code the web of tomorrow—creating responsive, dynamic, and us
 AI Integration in Web Development, E-Commerce Platforms, Space & Tech Enthusiast
 
 ## **GitHub Stats**
-![Arko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arko-inc&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-
+[![Arko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arko-inc&theme=radical&hide_border=true)]
+[![Arko's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arko-inc&theme=radical&hide_border=true)
 ## **Most Used Languages**
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arko-inc&layout=compact&theme=dark&hide_title=true)
-
 ## **Profile Visits**
 ![Profile Views](https://badges.pufler.dev/visits/arko-inc/arko-inc)
+
+
 
 ## 🤔 Fun Facts
 - I’m a space enthusiast aiming to launch rockets to Mars and the Moon 🚀🚀🚀🚀.
@@ -71,8 +72,8 @@ AI Integration in Web Development, E-Commerce Platforms, Space & Tech Enthusiast
   </a>
 </p>
 
+
 Let's build the future together!
 
 "Coding is the architecture of the future."
-
 
