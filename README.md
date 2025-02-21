@@ -1,10 +1,9 @@
 
-<a href='https://svgshare.com/s/1A4v'>
-  <img src='https://svgshare.com/i/1A4v.svg' title='' />
+<a href='https://github.com/arko-inc/'>
+ <img src="https://i.imghippo.com/files/Lg4984Bw.png" alt="" border="0">
 </a>
-
 ## About Me
-Welcome to **Arko-Inc**, where the fusion of futuristic design and cutting-edge web development takes place! I'm **Arko**, a passionate web developer crafting innovative digital experiences with a vision for the future.
+Welcome to Arko-Inc, where futuristic design meets cutting-edge web development! I'm Arko, a passionate web developer who creates innovative digital experiences with a vision for the future.
 
 ## Mission
 My mission is to code the web of tomorrow—creating responsive, dynamic, and user-friendly applications that push the boundaries of modern web development.
