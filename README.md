@@ -2,6 +2,10 @@
 <a href='https://github.com/arko-inc/'>
  <img src="https://i.imghippo.com/files/Lg4984Bw.png" alt="" border="0">
 </a>
+<a href='https://arkoland.vercel.app'>
+ Visit My Portfolio
+</a>
+<br/>
 ## About Me
 Welcome to Arko-Inc, where futuristic design meets cutting-edge web development! I'm Arko, a passionate web developer who creates innovative digital experiences with a vision for the future.
 
@@ -46,10 +50,6 @@ AI Integration in Web Development, E-Commerce Platforms, Space & Tech Enthusiast
 ![Profile Views](https://badges.pufler.dev/visits/arko-inc/arko-inc)
 
 
-
-## 🤔 Fun Facts
-- I’m a space enthusiast aiming to launch rockets to Mars and the Moon 🚀🚀🚀🚀.
-- I love coding and developing new technologies to support my dream of founding a space agency 🚀🚀🚀.
 
 ## 🌐 Connect with Me
 
